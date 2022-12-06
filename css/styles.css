@@ -1,0 +1,23 @@
+.top {
+    background-color: #65647C;
+    padding: 20px;
+}
+
+body{
+    margin: 0px;
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+.middle {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.bottom {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
